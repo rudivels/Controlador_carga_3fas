@@ -8,7 +8,12 @@ Programa para Arduino para controlar a carga de um pico central hidrelétrico tr
 
 # 1. Apresentação 
 Este programa faz parte de um projeto de um central de monitoramento e comando de uma unidade geradora de energia elétrica numa localidade remota. 
-A unidade geradora é um pico central hidrelétrica composto por uma turbina hidraulica e um gerador elétrica. Estratégias de controle centrais hidrelétricas.  
+A unidade geradora é um pico central hidrelétrica composto por uma turbina hidraulica e um gerador elétrica. 
+
+<!---
+Comentario
+Falar sobre Estratégias de controle centrais hidrelétricas.
+-->  
 
 O central tem que perimitir a configuração e/ou reprogramação remota de um controlador de carga dessa micro unidade geradora de energia elétrica que é implementado por meio de um microcontrolador Arduino. 
 
@@ -24,7 +29,6 @@ Um foto do hardware montado com o Arduino, Display é mostrada a seguir.
 <img src="foto_control_carga.jpg" alt="Quadro" title="Quadro" width="410"  height="463" />
 
 
-<img src="foto_control_carga.jpg" alt="Quadro" title="Quadro" width="1231"  height="1389" />
 
 .
 
