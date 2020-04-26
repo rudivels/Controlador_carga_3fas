@@ -21,6 +21,9 @@ O diagrama de bloco de todo o sistema é mostrada no figura a seguir.
 Um foto do hardware montado com o Arduino, Display é mostrada a seguir.
 
 
+<img src="foto_control_carga.jpg" alt="Quadro" title="Quadro" width="615"  height="695" />
+
+
 <img src="foto_control_carga.jpg" alt="Quadro" title="Quadro" width="1231"  height="1389" />
 
 .
