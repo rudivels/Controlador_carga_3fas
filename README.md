@@ -1,5 +1,6 @@
 # Controlador de carga para pico central hidrelétrica
 Rudivels@26/03/2020
+`/Users/rudi/src/Central_remota_usina/Controlador_Carga_TriFasico`
 
 Hardware e programa implementado com microcontrolador Arduino para controlar a carga de um pico central hidrelétrico trifasico por meio de triacs acionando uma carga de lastro resistiva.
 
